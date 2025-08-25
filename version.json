@@ -1,0 +1,10 @@
+{
+  "minVersion": "3.0.2",
+  "latestVersion": "3.0.2",
+  "force": false,
+  "message": "A new version is required. Please update to continue using CalmPulse.",
+  "storeUrls": {
+    "ios": "itms-apps://itunes.apple.com/app/id6743389519?mt=8",
+    "android": "market://details?id=com.noam_tzur21.finaltest"
+  }
+}
