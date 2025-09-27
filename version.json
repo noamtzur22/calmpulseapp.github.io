@@ -1,6 +1,6 @@
 {
-  "minVersion": "3.0.7",
-  "latestVersion": "3.0.7",
+  "minVersion": "3.1.2",
+  "latestVersion": "3.1.2",
   "force": false,
   "message": "A new version is required. Please update to continue using CalmPulse.",
   "storeUrls": {
